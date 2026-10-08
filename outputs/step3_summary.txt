@@ -1,0 +1,26 @@
+=======================================================
+STEP 3 SUMMARY: HETEROGENEITY MAPPING
+=======================================================
+
+Dynamic speckles in feature matrix : 166
+
+--- GMM Clustering ---
+  Optimal n_components : 3
+  Cluster 0 : n=  83  relax_time=2.783e+00 s  contrast=0.0024  mean_prob=0.970
+  Cluster 1 : n=  45  relax_time=1.127e+01 s  contrast=0.0042  mean_prob=0.912
+  Cluster 2 : n=  38  relax_time=8.321e+01 s  contrast=0.0063  mean_prob=0.987
+
+  Uncertain assignments (p<0.7) : 5 (3.0%)
+
+--- DBSCAN Cross-Check ---
+  Clusters found : 1
+  Noise points   : 2 (1.2%)
+  Noise        : n=   2  relax_time=1.330e+02 s  contrast=0.0077
+  Cluster 0    : n= 164  relax_time=2.216e+01 s  contrast=0.0037
+
+--- Feature Statistics ---
+  contrast             : mean=0.0038  std=0.0026  min=-0.0019  max=0.0105
+  mean_g2_decay        : mean=1.0015  std=0.0015  min=0.9998  max=1.0074
+  mean_g2_long         : mean=1.0004  std=0.0008  min=0.9993  max=1.0039
+  slope_decay          : mean=-0.0000  std=0.0000  min=-0.0001  max=0.0000
+  relax_time           : mean=23.4940  std=41.2076  min=1.0000  max=214.0000

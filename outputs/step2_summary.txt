@@ -1,0 +1,25 @@
+=======================================================
+STEP 2 SUMMARY: SPECKLE PROPERTY EXTRACTION
+=======================================================
+
+Total speckles           : 166
+Dynamic speckles         : 166 (100.0%)
+Non-dynamic speckles     : 0
+
+--- Contrast (beta = g2(tau_1) - 1) ---
+  Mean  : 0.0038
+  Std   : 0.0026
+  Min   : -0.0019
+  Max   : 0.0105
+
+--- Relaxation Time tau_r (dynamic only) ---
+  n with finite tau_r : 166
+  Mean   : 2.349e+01 s
+  Median : 5.000e+00 s
+  Std    : 4.121e+01 s
+  Min    : 1.000e+00 s
+  Max    : 2.140e+02 s
+
+--- Mean Intensity ---
+  Mean  : 5.492
+  Std   : 0.931
